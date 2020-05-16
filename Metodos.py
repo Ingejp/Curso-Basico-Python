@@ -36,3 +36,6 @@ def sumarNParametros(primerParametro, **diccionario):
         print(nota)
 
 sumarNParametros(5, primerCurso=9, segundoCurso=8, tercerCurso=10)
+
+
+
